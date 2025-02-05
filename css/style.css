@@ -244,6 +244,9 @@ main div.container a.button {
   background-color: white;
   margin: 0;
   width: 299px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 main div.we-do {
   display: flex;
