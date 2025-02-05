@@ -1,0 +1,36 @@
+@use "../components/buttons" as buttons;
+@use "../abstracts/abstracts" as abstracts;
+
+header {
+  align-items: baseline;
+  display: flex;
+  justify-content: space-between;
+  div.container {
+    padding: 34px 124px;
+    width: 60vw;
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+
+    nav {
+      ul {
+        gap: 20px;
+        list-style: none;
+        display: flex;
+        li {
+          a {
+            color: white;
+            text-decoration: none;
+            &:hover {
+              color: abstracts.$secondary-color-corporate-blue;
+            }
+          }
+        }
+      }
+    }
+  }
+  a.button {
+    margin-right: 124px;
+    @extend %button;
+  }
+}

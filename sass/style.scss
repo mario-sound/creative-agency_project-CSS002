@@ -1,0 +1,23 @@
+@use "./abstracts/abstracts";
+@use "./vendors/vendors";
+@use "./base/base";
+@use "./components/components";
+@use "./layout/layout";
+@use "./pages/pages";
+@use "./themes/themes";
+@use "settings";
+
+html {
+  font-family: abstracts.$primary-font;
+  font-size: abstracts.$global-font-size;
+  font-weight: 400;
+  line-height: 27px;
+}
+
+body {
+  background-color: abstracts.$color-corporate-blue;
+  color: white;
+  background-image: url("/img/smiling-creative-business-team-discussing-over-lap-566JQTQ\ 1.png");
+  background-repeat: no-repeat;
+  background-position: top right;
+}

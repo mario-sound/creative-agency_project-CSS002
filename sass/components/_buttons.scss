@@ -1,0 +1,17 @@
+@use "../abstracts/abstracts" as abstracts;
+
+%button {
+  display: inline-block;
+  width: 149px;
+  height: 60px;
+  margin-top: 30px;
+  text-align: center;
+  align-content: center;
+  background-color: abstracts.$color-corporate-blue;
+  color: white;
+  text-decoration: none;
+  &:hover {
+    background-color: darken(abstracts.$color-corporate-blue, 10%);
+    color: abstracts.$secondary-color-corporate-blue;
+  }
+}
