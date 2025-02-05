@@ -1,10 +1,10 @@
-# Header Business Agency - Proyecto Frontend
+# Creative Agency - Proyecto Frontend
 
-![Header Business Agency](img/hba-vite-project-screencapture.png)
+![Header Business Agency](img/creative-agency-screen.png)
 
 ## 📌 Descripción
 
-Este es mi **primer proyecto público de frontend web**, donde aplico lo aprendido en **HTML y CSS**. He utilizado tecnologías y herramientas clave como:
+Este es mi **segundo proyecto público de frontend web**, donde aplico lo aprendido en **HTML y CSS**. He utilizado tecnologías y herramientas clave como:
 
 - **Sass**: Uso de variables, anidación y organización de estilos.
 - **Vite**: Para gestionar el entorno de desarrollo y mejorar la velocidad de compilación.
@@ -47,10 +47,10 @@ Si deseas ejecutar el proyecto en tu equipo:
 
 ```sh
 # Clona el repositorio
-git clone https://github.com/mario-sound/header-business-agency_project-CSS01.git
+git clone https://github.com/mario-sound/creative-agency_project-CSS002
 
 # Entra en la carpeta del proyecto
-cd header-business-agency_project-CSS01
+cd creative-agency_project-CSS002
 
 # Instala dependencias
 npm install
@@ -64,6 +64,6 @@ npm run dev
 Si quieres conocer más sobre mi trabajo, puedes encontrarme en:
 
 - **GitHub**: [@mario-sound](https://github.com/mario-sound)
-- **LinkedIn**: _[[](https://www.linkedin.com/in/mariosanchezsonido/)]_
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/mariosanchezsonido/)
 
 ¡Gracias por visitar este proyecto! 🚀
